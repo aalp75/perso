@@ -1,5 +1,5 @@
 # Perso
-All my personal projects from those main field
+All my personal projects from those main fields
 
 - Applied mathematics
 - Computer science
